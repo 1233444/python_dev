@@ -1,4 +1,3 @@
-import numpy
 import sys
 
 print(sys.executable)
