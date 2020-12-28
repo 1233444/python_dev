@@ -1,11 +1,12 @@
 import sys
 
+print()
 print(sys.executable)
+print()
 print(sys.version)
 
 print('Hello, world!')
 
-print()
 print()
 print()
 
